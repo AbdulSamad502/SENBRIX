@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors / tools
+.vscode/
+.idea/
+.claude/
+*.swp
+
+# Dependencies and build output (not used now, kept for future)
+node_modules/
+dist/
+.env
+.env.*
+
+# Netlify local state
+.netlify/
+
+# Logs
+*.log
+
+# Scratch / old drafts
+*-old-prototypes/
